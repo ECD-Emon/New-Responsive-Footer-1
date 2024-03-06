@@ -1,0 +1,31 @@
+.litra{
+    text-decoration: none;
+    color: #e92490;
+    font-weight: 400;
+}
+.ultra{
+    list-style: none;
+    padding: 0;
+}
+img{
+    width: 50%;
+    height: auto;
+    align-items: center;
+}
+h2{
+    color: #c210b1;
+}
+h4{
+    color: #e92490;
+}
+.icon{
+    text-align: center;
+}
+.eicon{
+    color: #c210b1;
+    
+}
+.econ{
+    padding-left: 3px;
+    color: #f20a8a;
+}
